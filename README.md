@@ -10,7 +10,7 @@ Transforming Data into Actionable Business Insights
 
 # About Me
 
-I am a Data Analyst with **2 years of professional experience** working with operational and business data across healthcare and e-commerce domains.
+I am a passionate **Data Analyst** and **Business Analyst** with hands-on experience in transforming complex datasets into meaningful insights through **SQL, Python, Power BI, Tableau, Excel, and Business Analytics**.
 
 My experience includes data validation, reporting, quality assurance, and maintaining high-volume datasets while supporting business operations. I enjoy applying analytical thinking and business intelligence techniques to transform raw data into meaningful insights that improve decision-making.
 
@@ -67,38 +67,17 @@ Power BI • Excel • Power Query • Power Pivot • DAX • Pandas • NumPy 
 
 ## DRIVE NXT | Relational Database & SQL Analytics
 
-Designed and implemented a normalized relational database for a ride-booking platform to support operational analytics and business reporting.
+Designed a relational database and analytical solution for a ride-booking platform, enabling efficient data management and business reporting. The project focused on uncovering customer behavior, operational trends, revenue performance, and service quality through advanced SQL analytics and business analysis techniques.
 
-### Key Contributions
-
-- Designed an ER model and normalized schema (3NF) to improve data integrity.
-- Developed advanced SQL queries using CTEs, Window Functions, JOINS, Subqueries, and Aggregate Functions.
-- Performed customer segmentation, booking trend analysis, revenue analytics, cancellation analysis, and driver performance evaluation.
-- Identified dynamic pricing opportunities with an estimated revenue improvement of **10–15%** during peak demand.
-- Applied Root Cause Analysis (RCA) and SWOT Analysis to identify operational bottlenecks and recommend business improvements.
-
-**Technology**
-
-`SQL` `MySQL` `ER Modeling`
-
+**Tech Stack:** SQL • MySQL • ER Modeling • Business Analysis
 ---
 
 ## Learning & Development Analytics Dashboard
 
-Designed an executive Power BI dashboard to evaluate organizational training effectiveness and support strategic workforce development.
+Developed an interactive Power BI dashboard to evaluate employee learning outcomes and training effectiveness. The dashboard delivers key performance indicators, ROI analysis, and department-level insights, helping stakeholders monitor performance and make data-driven workforce decisions.
 
-### Key Contributions
-
-- Built an interactive Power BI dashboard using a dimensional data model.
-- Developed DAX measures for ROI, Completion Rate, Engagement Score, and Performance Improvement.
-- Analyzed training performance across **3,000 employees**.
-- Evaluated ROI on a **$220M organizational training investment**.
-- Applied Pareto Analysis and 5 Whys methodology to identify factors contributing to training incompletion.
-- Delivered executive-ready dashboards supporting performance monitoring and business decision-making.
-
+**Tech Stack:** Power BI • DAX • Power Query • Excel
 **Technology**
-
-`Power BI` `Excel` `Power Query` `DAX`
 
 ---
 
