@@ -116,19 +116,7 @@ Developed an interactive Power BI dashboard to evaluate employee learning outcom
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasircillaa-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasircillaa-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Connect
+# Connect With Me
 
 <p align="center">
 
@@ -145,7 +133,6 @@ Developed an interactive Power BI dashboard to evaluate employee learning outcom
 </a>
 
 </p>
-
 ---
 
 <p align="center">
